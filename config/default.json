@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb://tyler123:tyler123@ds331568.mlab.com:31568/heroku_tlfg1r8m",
+  "mongoURI": "",
   "jwtSecret": "secret"
 }

@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb://tyler123:tyler123@ds331568.mlab.com:31568/heroku_tlfg1r8m",
+  "mongoURI": "mongodb+srv://tyler123:tyler123@contactkeeper-mdwwu.mongodb.net/test?retryWrites=true&w=majority",
   "jwtSecret": "secret"
 }
