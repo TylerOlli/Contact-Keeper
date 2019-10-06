@@ -1,5 +1,5 @@
 {
-  "mongoURI": "mongodb+srv://tyler123:tyler123@contactkeeper-mdwwu.mongodb.net/admin?retryWrites=true&w=majority
+  "mongoURI": "mongodb://heroku_tlfg1r8m:rrrpkj9alrtb33p0jrhbthjfvr@ds331568.mlab.com:31568/heroku_tlfg1r8m
   ",
   "jwtSecret": "secret"
 }
