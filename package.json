@@ -1,6 +1,9 @@
 {
   "name": "contact-keeper",
   "version": "1.0.0",
+  "engines": {
+    "node": "12.8.0"
+  },
   "description": "Full Stack MERN Web App to Manage Your Contacts",
   "main": "server.js",
   "scripts": {
